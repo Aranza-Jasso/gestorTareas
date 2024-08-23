@@ -1,0 +1,13 @@
+Estructura HTML, estilos CS, inicio JS
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Thu Aug 1 19:08:52 2024 -0600
+#
+# On branch master
+# Changes to be committed:
+#	modified:   dist/index.html
+#	modified:   src/styles.css
+#	modified:   src/task.js
+#
